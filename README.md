@@ -13,3 +13,4 @@ The complete source code is contained within. Please follow along with the [comp
 
 ## How to test on android device
 * Run ionic serve --devapp to run the app on an android device
+* Download devapp app available on playstore
